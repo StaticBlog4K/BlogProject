@@ -17,8 +17,8 @@ java {
 dependencies {
     implementation(kotlin("reflect"))
     implementation(kotlin("stdlib"))
-    testImplementation("org.junit.jupiter:junit-jupiter:5.6.2")
-    testImplementation("org.junit.platform:junit-platform-launcher:1.6.2")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.7.2")
+    testImplementation("org.junit.platform:junit-platform-launcher:1.7.2")
 }
 
 tasks.test {
@@ -49,6 +49,3 @@ publishing {
         mavenLocal()
     }
 }
-
-
-
