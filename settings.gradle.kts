@@ -1,2 +1,3 @@
 rootProject.name = "BlogProject"
-include("template")
+include("blog-web")
+include("blog-core")
