@@ -1,4 +1,4 @@
-group = "com.github.StaticBlog4K.BlogProject"
+group = "com.gitHub.StaticBlog4K.BlogProject"
 
 buildscript {
     repositories {
