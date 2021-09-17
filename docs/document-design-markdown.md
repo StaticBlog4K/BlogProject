@@ -1,3 +1,3 @@
-# 文档定义 (Markdown)
+# 文档规则 (Markdown)
 
-> 关于 markdown 的文档定义，一切渲染行为以此文档为主
+> 此为 markdown 的文档定义，文档全局定义请查看[全局定义](./document-design.md)

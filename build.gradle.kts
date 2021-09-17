@@ -4,6 +4,9 @@ buildscript {
     repositories {
         mavenLocal()
         mavenCentral()
+        maven {
+            setUrl("https://jitpack.io")
+        }
     }
 
     dependencies {
@@ -15,6 +18,9 @@ allprojects {
     repositories {
         mavenLocal()
         mavenCentral()
+        maven {
+            setUrl("https://jitpack.io")
+        }
     }
 }
 

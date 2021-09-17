@@ -17,6 +17,8 @@ java {
 dependencies {
     implementation(kotlin("reflect"))
     implementation(kotlin("stdlib"))
+    implementation("com.github.OpenEdgn.Logger4K:logger-core:2.1.0")
+    implementation("com.github.OpenEdgn.Logger4K:logger-console:2.1.0")
     testImplementation("org.junit.jupiter:junit-jupiter:5.7.2")
     testImplementation("org.junit.platform:junit-platform-launcher:1.7.2")
 }
